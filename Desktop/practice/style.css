@@ -1,0 +1,27 @@
+.button{
+  height: 120px;
+  width: 200px;
+  border-radius: 1em;
+  float: right;
+}
+.jumbotron{
+  margin: 270px;
+  background-color: rgba(0,0,0,0.8);
+  height: 500px;
+  width: 600px;
+  border-radius: 1em;
+}
+button{
+  height: 36px;
+  width: 80px;
+  background-color: gold;
+  box-shadow: 3px 3px rgba(0,0,0,0.9);
+  box-sizing: content-box;
+}
+input{
+  border-radius: 0.5em;
+  box-shadow: 3px 3px 3px 3px silver;
+}
+body{
+  background-color: yellow;
+}
